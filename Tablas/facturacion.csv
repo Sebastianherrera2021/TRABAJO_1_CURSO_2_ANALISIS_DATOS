@@ -1,0 +1,151 @@
+﻿id_factura,id_propietario,fecha_emision,descripcion,total,estado
+1,35,2024-03-24 13:36:34,estetica ... 55000.00 // enfermedad ... 80000.00 // laboratorio ... 44000.00,179000.00,Pendiente
+2,18,2025-04-25 01:52:06,enfermedad ... 80000.00 // laboratorio ... 44000.00,124000.00,Pendiente
+3,78,2024-11-27 03:43:07,estetica ... 55000.00 // laboratorio ... 44000.00 // enfermedad ... 80000.00 // estetica ... 55000.00,234000.00,Cancelado
+4,6,2024-06-08 14:26:17,enfermedad ... 80000.00 // estetica ... 55000.00 // estetica ... 55000.00,190000.00,Cancelado
+5,4,2024-12-10 15:05:59,laboratorio ... 44000.00 // enfermedad ... 80000.00,124000.00,Cancelado
+6,29,2023-12-25 19:47:03,enfermedad ... 80000.00 // vacunacion ... 85000.00 // cirugia ... 1800000.00 // vacunacion ... 85000.00 // laboratorio ... 44000.00 // vacunacion ... 85000.00,2179000.00,Cancelado
+7,49,2024-04-14 15:19:04,vacunacion ... 85000.00 // cirugia ... 1800000.00 // imagenes_dx ... 138000.00 // cirugia ... 1800000.00,3823000.00,Pendiente
+8,61,2025-02-11 21:13:03,estetica ... 55000.00,55000.00,Cancelado
+9,31,2024-12-29 17:17:12,imagenes_dx ... 138000.00 // cirugia ... 1800000.00 // laboratorio ... 44000.00 // laboratorio ... 44000.00,2026000.00,Cancelado
+10,57,2023-11-08 03:10:36,estetica ... 55000.00 // imagenes_dx ... 138000.00 // cirugia ... 1800000.00 // estetica ... 55000.00,2048000.00,Pendiente
+11,33,2023-12-16 08:51:43,enfermedad ... 80000.00 // vacunacion ... 85000.00,165000.00,Pendiente
+12,34,2024-09-28 10:44:27,enfermedad ... 80000.00,80000.00,Cancelado
+13,76,2025-03-13 09:20:44,vacunacion ... 85000.00 // enfermedad ... 80000.00 // estetica ... 55000.00 // laboratorio ... 44000.00 // enfermedad ... 80000.00,344000.00,Pendiente
+14,86,2025-05-18 11:05:26,imagenes_dx ... 138000.00 // vacunacion ... 85000.00 // vacunacion ... 85000.00,308000.00,Cancelado
+15,80,2025-01-04 02:31:50,enfermedad ... 80000.00 // enfermedad ... 80000.00,160000.00,Cancelado
+16,91,2024-12-10 17:29:39,laboratorio ... 44000.00 // laboratorio ... 44000.00 // cirugia ... 1800000.00,1888000.00,Pendiente
+17,40,2025-02-18 00:57:18,laboratorio ... 44000.00 // imagenes_dx ... 138000.00 // imagenes_dx ... 138000.00 // estetica ... 55000.00 // vacunacion ... 85000.00 // estetica ... 55000.00,515000.00,Pendiente
+18,11,2024-05-03 04:07:50,estetica ... 55000.00 // imagenes_dx ... 138000.00 // enfermedad ... 80000.00 // enfermedad ... 80000.00 // cirugia ... 1800000.00,2153000.00,Pendiente
+19,65,2024-03-24 04:59:43,vacunacion ... 85000.00 // vacunacion ... 85000.00,170000.00,Cancelado
+20,59,2024-07-18 16:10:49,cirugia ... 1800000.00 // laboratorio ... 44000.00 // vacunacion ... 85000.00 // laboratorio ... 44000.00,1973000.00,Pendiente
+21,21,2024-08-22 10:14:24,enfermedad ... 80000.00 // vacunacion ... 85000.00 // cirugia ... 1800000.00,1965000.00,Pendiente
+22,48,2023-08-10 04:44:24,enfermedad ... 80000.00 // enfermedad ... 80000.00 // vacunacion ... 85000.00 // estetica ... 55000.00,300000.00,Pendiente
+23,64,2024-12-04 05:38:59,estetica ... 55000.00 // imagenes_dx ... 138000.00 // vacunacion ... 85000.00,278000.00,Pendiente
+24,1,2024-04-23 18:57:18,cirugia ... 1800000.00 // enfermedad ... 80000.00,1880000.00,Pendiente
+25,71,2023-07-07 14:50:47,laboratorio ... 44000.00 // estetica ... 55000.00 // cirugia ... 1800000.00 // enfermedad ... 80000.00 // cirugia ... 1800000.00,3779000.00,Cancelado
+26,51,2024-07-02 18:57:47,enfermedad ... 80000.00 // enfermedad ... 80000.00 // enfermedad ... 80000.00 // cirugia ... 1800000.00,2040000.00,Cancelado
+27,47,2024-12-13 00:59:19,laboratorio ... 44000.00 // laboratorio ... 44000.00 // estetica ... 55000.00,143000.00,Pendiente
+28,70,2023-09-18 10:19:14,vacunacion ... 85000.00,85000.00,Cancelado
+29,61,2023-12-15 12:13:57,imagenes_dx ... 138000.00 // enfermedad ... 80000.00 // imagenes_dx ... 138000.00,356000.00,Pendiente
+30,87,2025-01-04 08:01:02,cirugia ... 1800000.00 // laboratorio ... 44000.00 // cirugia ... 1800000.00,3644000.00,Pendiente
+31,44,2024-07-27 11:47:26,enfermedad ... 80000.00 // laboratorio ... 44000.00 // laboratorio ... 44000.00,168000.00,Pendiente
+32,76,2024-03-25 09:57:36,enfermedad ... 80000.00 // vacunacion ... 85000.00 // imagenes_dx ... 138000.00 // estetica ... 55000.00,358000.00,Cancelado
+33,95,2025-01-14 19:38:48,imagenes_dx ... 138000.00 // cirugia ... 1800000.00,1938000.00,Pendiente
+34,7,2024-03-10 23:23:45,estetica ... 55000.00 // cirugia ... 1800000.00 // estetica ... 55000.00 // imagenes_dx ... 138000.00,2048000.00,Pendiente
+35,20,2023-11-15 03:50:40,estetica ... 55000.00 // laboratorio ... 44000.00,99000.00,Pendiente
+36,33,2024-01-30 23:37:33,imagenes_dx ... 138000.00 // vacunacion ... 85000.00 // laboratorio ... 44000.00 // estetica ... 55000.00,322000.00,Cancelado
+37,12,2025-03-05 06:48:56,enfermedad ... 80000.00 // vacunacion ... 85000.00,165000.00,Pendiente
+38,66,2023-11-06 07:07:24,imagenes_dx ... 138000.00 // enfermedad ... 80000.00 // enfermedad ... 80000.00 // vacunacion ... 85000.00,383000.00,Cancelado
+39,71,2024-06-15 17:23:06,enfermedad ... 80000.00 // laboratorio ... 44000.00 // estetica ... 55000.00 // enfermedad ... 80000.00 // laboratorio ... 44000.00 // estetica ... 55000.00,358000.00,Pendiente
+40,77,2024-05-26 07:37:04,laboratorio ... 44000.00 // imagenes_dx ... 138000.00 // enfermedad ... 80000.00 // estetica ... 55000.00 // estetica ... 55000.00,372000.00,Cancelado
+41,52,2024-02-14 13:09:23,enfermedad ... 80000.00 // cirugia ... 1800000.00,1880000.00,Cancelado
+42,37,2024-10-31 13:40:09,imagenes_dx ... 138000.00 // vacunacion ... 85000.00 // laboratorio ... 44000.00 // cirugia ... 1800000.00 // cirugia ... 1800000.00,3867000.00,Cancelado
+43,88,2025-04-06 19:08:50,imagenes_dx ... 138000.00 // laboratorio ... 44000.00,182000.00,Pendiente
+44,30,2024-05-22 17:05:53,imagenes_dx ... 138000.00 // estetica ... 55000.00 // estetica ... 55000.00 // estetica ... 55000.00 // estetica ... 55000.00 // cirugia ... 1800000.00,2158000.00,Cancelado
+45,36,2024-01-05 06:11:14,laboratorio ... 44000.00 // estetica ... 55000.00 // laboratorio ... 44000.00,143000.00,Cancelado
+46,68,2023-08-29 02:09:42,enfermedad ... 80000.00 // enfermedad ... 80000.00 // laboratorio ... 44000.00 // laboratorio ... 44000.00 // cirugia ... 1800000.00 // cirugia ... 1800000.00,3848000.00,Cancelado
+47,6,2024-05-19 10:41:00,cirugia ... 1800000.00 // laboratorio ... 44000.00,1844000.00,Cancelado
+48,45,2025-05-25 10:40:40,cirugia ... 1800000.00 // laboratorio ... 44000.00 // vacunacion ... 85000.00 // imagenes_dx ... 138000.00,2067000.00,Cancelado
+49,69,2024-09-24 13:06:24,vacunacion ... 85000.00,85000.00,Cancelado
+50,24,2024-05-08 00:20:11,laboratorio ... 44000.00,44000.00,Pendiente
+51,28,2023-09-18 10:29:47,imagenes_dx ... 138000.00 // imagenes_dx ... 138000.00 // enfermedad ... 80000.00,356000.00,Pendiente
+52,100,2024-09-14 01:17:42,cirugia ... 1800000.00 // imagenes_dx ... 138000.00 // estetica ... 55000.00 // imagenes_dx ... 138000.00,2131000.00,Cancelado
+53,48,2024-07-08 22:44:05,laboratorio ... 44000.00,44000.00,Cancelado
+54,59,2023-08-23 23:16:08,imagenes_dx ... 138000.00 // imagenes_dx ... 138000.00 // cirugia ... 1800000.00 // enfermedad ... 80000.00 // vacunacion ... 85000.00,2241000.00,Cancelado
+55,8,2023-12-05 19:00:33,vacunacion ... 85000.00 // laboratorio ... 44000.00 // cirugia ... 1800000.00 // laboratorio ... 44000.00,1973000.00,Pendiente
+56,76,2024-12-08 17:09:52,enfermedad ... 80000.00 // imagenes_dx ... 138000.00 // laboratorio ... 44000.00,262000.00,Pendiente
+57,75,2024-07-16 20:27:40,estetica ... 55000.00 // estetica ... 55000.00 // estetica ... 55000.00 // vacunacion ... 85000.00 // cirugia ... 1800000.00 // vacunacion ... 85000.00,2135000.00,Pendiente
+58,38,2024-05-17 19:22:58,laboratorio ... 44000.00 // vacunacion ... 85000.00 // enfermedad ... 80000.00 // imagenes_dx ... 138000.00 // enfermedad ... 80000.00 // imagenes_dx ... 138000.00,565000.00,Pendiente
+59,56,2024-05-14 10:26:44,laboratorio ... 44000.00,44000.00,Pendiente
+60,60,2025-01-31 08:14:14,estetica ... 55000.00 // vacunacion ... 85000.00,140000.00,Pendiente
+61,14,2024-02-05 19:05:25,cirugia ... 1800000.00 // estetica ... 55000.00 // imagenes_dx ... 138000.00,1993000.00,Pendiente
+62,91,2023-10-27 06:52:13,laboratorio ... 44000.00 // imagenes_dx ... 138000.00 // estetica ... 55000.00 // cirugia ... 1800000.00 // enfermedad ... 80000.00,2117000.00,Cancelado
+63,25,2024-04-22 18:58:07,laboratorio ... 44000.00,44000.00,Pendiente
+64,46,2024-03-15 01:20:54,cirugia ... 1800000.00 // imagenes_dx ... 138000.00 // vacunacion ... 85000.00 // laboratorio ... 44000.00 // estetica ... 55000.00,2122000.00,Cancelado
+65,85,2025-06-01 05:57:54,laboratorio ... 44000.00 // estetica ... 55000.00 // estetica ... 55000.00,154000.00,Pendiente
+66,50,2024-04-04 14:06:44,vacunacion ... 85000.00 // cirugia ... 1800000.00 // cirugia ... 1800000.00,3685000.00,Cancelado
+67,58,2024-03-12 13:09:45,imagenes_dx ... 138000.00 // enfermedad ... 80000.00 // estetica ... 55000.00 // vacunacion ... 85000.00 // cirugia ... 1800000.00 // vacunacion ... 85000.00,2243000.00,Pendiente
+68,40,2025-05-31 08:40:29,vacunacion ... 85000.00 // laboratorio ... 44000.00,129000.00,Pendiente
+69,27,2024-09-24 16:15:38,estetica ... 55000.00,55000.00,Pendiente
+70,48,2025-01-25 16:31:10,laboratorio ... 44000.00,44000.00,Pendiente
+71,21,2024-07-16 02:36:49,vacunacion ... 85000.00 // cirugia ... 1800000.00 // laboratorio ... 44000.00,1929000.00,Cancelado
+72,21,2024-10-11 15:06:18,imagenes_dx ... 138000.00 // laboratorio ... 44000.00 // vacunacion ... 85000.00 // enfermedad ... 80000.00 // estetica ... 55000.00,402000.00,Pendiente
+73,99,2024-01-21 06:12:34,laboratorio ... 44000.00 // imagenes_dx ... 138000.00 // vacunacion ... 85000.00 // enfermedad ... 80000.00,347000.00,Pendiente
+74,41,2023-10-14 21:53:58,laboratorio ... 44000.00,44000.00,Pendiente
+75,4,2024-03-23 02:47:02,cirugia ... 1800000.00 // enfermedad ... 80000.00 // estetica ... 55000.00 // estetica ... 55000.00 // imagenes_dx ... 138000.00 // vacunacion ... 85000.00,2213000.00,Pendiente
+76,5,2025-01-22 11:37:24,cirugia ... 1800000.00 // laboratorio ... 44000.00 // laboratorio ... 44000.00 // imagenes_dx ... 138000.00 // vacunacion ... 85000.00,2111000.00,Pendiente
+77,61,2025-04-14 18:12:28,imagenes_dx ... 138000.00 // enfermedad ... 80000.00 // imagenes_dx ... 138000.00 // imagenes_dx ... 138000.00 // estetica ... 55000.00,549000.00,Cancelado
+78,68,2024-05-13 04:00:27,vacunacion ... 85000.00 // vacunacion ... 85000.00 // cirugia ... 1800000.00 // estetica ... 55000.00,2025000.00,Pendiente
+79,99,2024-05-10 05:54:09,estetica ... 55000.00 // estetica ... 55000.00 // vacunacion ... 85000.00 // imagenes_dx ... 138000.00,333000.00,Cancelado
+80,76,2024-02-15 15:29:22,enfermedad ... 80000.00 // laboratorio ... 44000.00 // laboratorio ... 44000.00 // imagenes_dx ... 138000.00,306000.00,Cancelado
+81,62,2024-01-22 05:07:57,vacunacion ... 85000.00,85000.00,Cancelado
+82,17,2024-01-20 19:05:39,laboratorio ... 44000.00,44000.00,Pendiente
+83,72,2024-05-25 15:46:36,estetica ... 55000.00 // cirugia ... 1800000.00 // estetica ... 55000.00 // laboratorio ... 44000.00 // vacunacion ... 85000.00,2039000.00,Cancelado
+84,82,2024-03-18 17:45:24,cirugia ... 1800000.00,1800000.00,Pendiente
+85,34,2025-03-28 03:34:07,cirugia ... 1800000.00 // estetica ... 55000.00,1855000.00,Pendiente
+86,74,2025-03-22 11:40:57,cirugia ... 1800000.00 // cirugia ... 1800000.00 // laboratorio ... 44000.00 // imagenes_dx ... 138000.00 // estetica ... 55000.00 // cirugia ... 1800000.00,5637000.00,Pendiente
+87,10,2024-11-17 23:26:22,vacunacion ... 85000.00,85000.00,Pendiente
+88,23,2024-04-28 01:10:49,laboratorio ... 44000.00 // vacunacion ... 85000.00 // estetica ... 55000.00,184000.00,Pendiente
+89,53,2025-01-17 22:01:24,enfermedad ... 80000.00 // vacunacion ... 85000.00,165000.00,Cancelado
+90,49,2023-09-29 16:51:02,enfermedad ... 80000.00 // laboratorio ... 44000.00,124000.00,Pendiente
+91,88,2024-11-23 23:21:55,estetica ... 55000.00 // vacunacion ... 85000.00 // vacunacion ... 85000.00 // enfermedad ... 80000.00 // enfermedad ... 80000.00,385000.00,Cancelado
+92,26,2023-10-06 16:46:10,laboratorio ... 44000.00 // cirugia ... 1800000.00 // vacunacion ... 85000.00 // cirugia ... 1800000.00,3729000.00,Pendiente
+93,23,2023-10-03 23:46:05,imagenes_dx ... 138000.00 // estetica ... 55000.00 // vacunacion ... 85000.00,278000.00,Cancelado
+94,32,2024-05-13 01:50:10,vacunacion ... 85000.00 // vacunacion ... 85000.00 // estetica ... 55000.00 // vacunacion ... 85000.00,310000.00,Pendiente
+95,3,2024-10-10 15:21:21,estetica ... 55000.00 // imagenes_dx ... 138000.00 // cirugia ... 1800000.00 // cirugia ... 1800000.00 // imagenes_dx ... 138000.00 // laboratorio ... 44000.00,3975000.00,Pendiente
+96,99,2024-01-23 00:30:45,imagenes_dx ... 138000.00 // estetica ... 55000.00 // cirugia ... 1800000.00,1993000.00,Cancelado
+97,19,2024-02-26 11:36:13,enfermedad ... 80000.00 // enfermedad ... 80000.00 // imagenes_dx ... 138000.00 // enfermedad ... 80000.00 // laboratorio ... 44000.00,422000.00,Cancelado
+98,73,2024-08-22 15:04:28,cirugia ... 1800000.00 // enfermedad ... 80000.00,1880000.00,Cancelado
+99,94,2024-01-18 10:17:38,vacunacion ... 85000.00 // enfermedad ... 80000.00 // laboratorio ... 44000.00 // cirugia ... 1800000.00 // estetica ... 55000.00,2064000.00,Pendiente
+100,22,2023-12-20 02:19:01,vacunacion ... 85000.00 // imagenes_dx ... 138000.00 // vacunacion ... 85000.00 // vacunacion ... 85000.00 // imagenes_dx ... 138000.00 // enfermedad ... 80000.00,611000.00,Pendiente
+101,92,2025-01-13 13:18:42,cirugia ... 1800000.00 // cirugia ... 1800000.00 // laboratorio ... 44000.00,3644000.00,Pendiente
+102,16,2024-12-02 11:41:41,enfermedad ... 80000.00 // estetica ... 55000.00 // estetica ... 55000.00 // imagenes_dx ... 138000.00 // enfermedad ... 80000.00 // vacunacion ... 85000.00,493000.00,Pendiente
+103,75,2024-07-18 03:42:57,vacunacion ... 85000.00 // cirugia ... 1800000.00 // enfermedad ... 80000.00 // vacunacion ... 85000.00 // imagenes_dx ... 138000.00 // vacunacion ... 85000.00,2273000.00,Cancelado
+104,33,2024-08-12 04:19:17,cirugia ... 1800000.00 // imagenes_dx ... 138000.00 // vacunacion ... 85000.00 // cirugia ... 1800000.00,3823000.00,Cancelado
+105,54,2024-12-09 23:10:27,enfermedad ... 80000.00 // imagenes_dx ... 138000.00 // enfermedad ... 80000.00 // laboratorio ... 44000.00 // vacunacion ... 85000.00,427000.00,Cancelado
+106,43,2025-05-26 09:20:37,estetica ... 55000.00 // vacunacion ... 85000.00,140000.00,Cancelado
+107,53,2025-03-28 22:45:28,imagenes_dx ... 138000.00,138000.00,Pendiente
+108,22,2023-11-18 16:05:31,enfermedad ... 80000.00,80000.00,Cancelado
+109,89,2025-07-01 06:14:23,enfermedad ... 80000.00 // enfermedad ... 80000.00,160000.00,Pendiente
+110,9,2024-08-04 20:12:19,imagenes_dx ... 138000.00 // cirugia ... 1800000.00 // estetica ... 55000.00 // enfermedad ... 80000.00 // enfermedad ... 80000.00 // cirugia ... 1800000.00,3953000.00,Cancelado
+111,56,2024-03-12 06:54:40,estetica ... 55000.00,55000.00,Cancelado
+112,93,2024-05-01 17:39:16,cirugia ... 1800000.00,1800000.00,Cancelado
+113,97,2024-11-07 11:20:47,laboratorio ... 44000.00 // estetica ... 55000.00 // estetica ... 55000.00 // imagenes_dx ... 138000.00 // vacunacion ... 85000.00 // vacunacion ... 85000.00,462000.00,Pendiente
+114,24,2024-12-10 19:14:44,imagenes_dx ... 138000.00 // cirugia ... 1800000.00 // laboratorio ... 44000.00 // vacunacion ... 85000.00 // estetica ... 55000.00 // enfermedad ... 80000.00,2202000.00,Pendiente
+115,32,2023-10-20 18:25:46,cirugia ... 1800000.00 // cirugia ... 1800000.00 // cirugia ... 1800000.00 // cirugia ... 1800000.00 // cirugia ... 1800000.00,9000000.00,Pendiente
+116,80,2024-06-28 07:51:01,vacunacion ... 85000.00 // laboratorio ... 44000.00 // cirugia ... 1800000.00 // vacunacion ... 85000.00 // vacunacion ... 85000.00 // imagenes_dx ... 138000.00,2237000.00,Cancelado
+117,96,2025-05-30 09:38:12,imagenes_dx ... 138000.00 // imagenes_dx ... 138000.00 // estetica ... 55000.00 // estetica ... 55000.00 // cirugia ... 1800000.00,2186000.00,Cancelado
+118,75,2025-06-19 02:21:25,cirugia ... 1800000.00,1800000.00,Pendiente
+119,57,2024-09-07 13:07:20,cirugia ... 1800000.00 // cirugia ... 1800000.00 // enfermedad ... 80000.00 // imagenes_dx ... 138000.00,3818000.00,Pendiente
+120,84,2024-07-02 01:53:30,vacunacion ... 85000.00,85000.00,Pendiente
+121,51,2025-03-03 18:10:54,laboratorio ... 44000.00 // imagenes_dx ... 138000.00 // vacunacion ... 85000.00 // enfermedad ... 80000.00,347000.00,Cancelado
+122,79,2024-12-13 20:28:18,enfermedad ... 80000.00 // imagenes_dx ... 138000.00,218000.00,Pendiente
+123,63,2024-04-20 19:00:56,imagenes_dx ... 138000.00 // cirugia ... 1800000.00 // enfermedad ... 80000.00,2018000.00,Cancelado
+124,42,2024-11-01 23:14:28,cirugia ... 1800000.00 // enfermedad ... 80000.00 // laboratorio ... 44000.00,1924000.00,Cancelado
+125,83,2024-12-26 20:30:08,laboratorio ... 44000.00 // enfermedad ... 80000.00 // laboratorio ... 44000.00,168000.00,Pendiente
+126,62,2024-06-17 06:04:26,laboratorio ... 44000.00 // estetica ... 55000.00,99000.00,Cancelado
+127,39,2025-05-28 19:00:09,laboratorio ... 44000.00 // vacunacion ... 85000.00 // vacunacion ... 85000.00,214000.00,Pendiente
+128,2,2023-08-05 15:35:24,estetica ... 55000.00 // vacunacion ... 85000.00 // imagenes_dx ... 138000.00 // imagenes_dx ... 138000.00,416000.00,Pendiente
+129,98,2024-09-12 22:45:30,vacunacion ... 85000.00,85000.00,Pendiente
+130,83,2024-03-11 12:57:54,laboratorio ... 44000.00,44000.00,Cancelado
+131,48,2024-04-28 08:26:02,vacunacion ... 85000.00 // estetica ... 55000.00 // estetica ... 55000.00,195000.00,Cancelado
+132,1,2024-02-26 22:56:58,estetica ... 55000.00 // estetica ... 55000.00 // vacunacion ... 85000.00 // cirugia ... 1800000.00 // vacunacion ... 85000.00,2080000.00,Cancelado
+133,97,2023-07-18 05:48:46,imagenes_dx ... 138000.00 // imagenes_dx ... 138000.00 // imagenes_dx ... 138000.00,414000.00,Cancelado
+134,26,2024-11-12 21:27:31,cirugia ... 1800000.00,1800000.00,Cancelado
+135,76,2024-07-27 16:27:01,imagenes_dx ... 138000.00 // vacunacion ... 85000.00 // estetica ... 55000.00 // cirugia ... 1800000.00,2078000.00,Pendiente
+136,66,2025-05-08 10:39:08,enfermedad ... 80000.00,80000.00,Cancelado
+137,37,2025-02-23 13:15:30,cirugia ... 1800000.00 // vacunacion ... 85000.00,1885000.00,Pendiente
+138,81,2024-11-15 20:17:37,estetica ... 55000.00 // cirugia ... 1800000.00 // cirugia ... 1800000.00 // enfermedad ... 80000.00 // enfermedad ... 80000.00,3815000.00,Cancelado
+139,14,2023-12-14 02:14:41,estetica ... 55000.00,55000.00,Cancelado
+140,33,2024-06-18 11:13:04,estetica ... 55000.00 // enfermedad ... 80000.00 // cirugia ... 1800000.00 // cirugia ... 1800000.00 // imagenes_dx ... 138000.00 // imagenes_dx ... 138000.00,4011000.00,Pendiente
+141,13,2023-09-05 01:09:09,vacunacion ... 85000.00 // enfermedad ... 80000.00 // laboratorio ... 44000.00,209000.00,Cancelado
+142,44,2025-01-21 03:43:16,laboratorio ... 44000.00,44000.00,Pendiente
+143,67,2025-04-09 07:21:56,cirugia ... 1800000.00 // cirugia ... 1800000.00 // imagenes_dx ... 138000.00 // enfermedad ... 80000.00 // imagenes_dx ... 138000.00 // imagenes_dx ... 138000.00,4094000.00,Cancelado
+144,15,2025-02-15 19:07:41,imagenes_dx ... 138000.00 // laboratorio ... 44000.00 // vacunacion ... 85000.00 // imagenes_dx ... 138000.00 // vacunacion ... 85000.00,490000.00,Cancelado
+145,55,2024-03-19 19:47:47,estetica ... 55000.00 // cirugia ... 1800000.00 // enfermedad ... 80000.00 // estetica ... 55000.00 // cirugia ... 1800000.00,3790000.00,Cancelado
+146,31,2024-12-15 17:31:34,enfermedad ... 80000.00 // laboratorio ... 44000.00,124000.00,Cancelado
+147,18,2024-02-05 10:40:17,estetica ... 55000.00 // cirugia ... 1800000.00 // imagenes_dx ... 138000.00 // laboratorio ... 44000.00 // laboratorio ... 44000.00,2081000.00,Pendiente
+148,89,2024-08-31 02:01:14,estetica ... 55000.00 // cirugia ... 1800000.00 // enfermedad ... 80000.00,1935000.00,Cancelado
+149,81,2023-11-06 10:04:42,imagenes_dx ... 138000.00,138000.00,Cancelado
+150,90,2025-05-23 06:59:58,enfermedad ... 80000.00 // enfermedad ... 80000.00,160000.00,Cancelado
