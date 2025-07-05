@@ -1,0 +1,7 @@
+id_servicio;servicio;descripcion;precio
+1;enfermedad;valoracion medica dolor;80000
+2;estetica;baño general corte de uñas limpieza de oidos y dientes;35000
+3;cirugia;cirugias y hospitalizacion;1800000
+4;vacunacion;vacunar y desparacitar;85000
+5;laboratorio;toma de muestras;40000
+6;imagenes_dx;radiorafias y ecografias;130000
