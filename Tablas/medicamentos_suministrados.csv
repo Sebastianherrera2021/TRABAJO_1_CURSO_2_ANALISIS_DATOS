@@ -1,0 +1,101 @@
+id_registro,id_cita,id_medicamento,dosis,observaciones
+1,81,2,20mg,Administrar una inyección cada semana
+2,44,1,10mg,Aplicar crema en la zona afectada dos veces al día
+3,86,1,5mg,Tomar una pastilla cada 8 horas
+4,99,5,100mg,Aplicar el spray nasal cada 4 horas
+5,61,1,20mg,Ingerir una cucharada de jarabe antes de cada comida
+6,64,3,50mg,Tomar una dosis doble si se olvida la dosis anterior
+7,82,1,10mg,Tomar una pastilla cada 8 horas
+8,82,2,50mg,Aplicar crema en la zona afectada dos veces al día
+9,90,2,5mg,Tomar una pastilla cada 8 horas
+10,92,1,100mg,Tomar una dosis doble si se olvida la dosis anterior
+11,16,3,10mg,Ingerir el medicamento con alimentos para evitar malestar estomacal
+12,96,2,20mg,Tomar una pastilla cada 8 horas
+13,7,3,20mg,Administrar una inyección cada semana
+14,14,1,50mg,Tomar dos tabletas con agua después de cada comida
+15,78,5,50mg,Ingerir el medicamento con alimentos para evitar malestar estomacal
+16,76,2,50mg,Tomar dos tabletas con agua después de cada comida
+17,100,3,50mg,Administrar una inyección cada semana
+18,53,3,5mg,Aplicar crema en la zona afectada dos veces al día
+19,94,5,100mg,Tomar dos tabletas con agua después de cada comida
+20,35,2,5mg,Ingerir el medicamento con alimentos para evitar malestar estomacal
+21,71,4,10mg,Tomar una dosis doble si se olvida la dosis anterior
+22,77,5,10mg,Tomar una dosis doble si se olvida la dosis anterior
+23,90,1,10mg,Aplicar crema en la zona afectada dos veces al día
+24,70,1,5mg,Aplicar el spray nasal cada 4 horas
+25,42,5,50mg,Aplicar ungüento en la piel dos veces al día
+26,68,5,5mg,Administrar una inyección cada semana
+27,5,3,50mg,Tomar una cápsula cada 12 horas
+28,47,2,100mg,Tomar una pastilla cada 8 horas
+29,41,5,100mg,Aplicar ungüento en la piel dos veces al día
+30,64,2,20mg,Aplicar ungüento en la piel dos veces al día
+31,78,5,10mg,Aplicar ungüento en la piel dos veces al día
+32,3,3,50mg,Tomar una dosis doble si se olvida la dosis anterior
+33,32,5,20mg,Ingerir una cucharada de jarabe antes de cada comida
+34,3,5,10mg,Aplicar crema en la zona afectada dos veces al día
+35,66,3,10mg,Administrar una inyección cada semana
+36,40,3,5mg,Tomar una pastilla cada 8 horas
+37,70,4,20mg,Aplicar crema en la zona afectada dos veces al día
+38,55,5,100mg,Administrar una inyección cada semana
+39,55,4,100mg,Aplicar crema en la zona afectada dos veces al día
+40,82,5,20mg,Tomar una pastilla cada 8 horas
+41,69,5,50mg,Aplicar ungüento en la piel dos veces al día
+42,89,2,10mg,Tomar una pastilla cada 8 horas
+43,45,3,10mg,Tomar una dosis doble si se olvida la dosis anterior
+44,67,3,10mg,Ingerir el medicamento con alimentos para evitar malestar estomacal
+45,38,3,50mg,Tomar una pastilla cada 8 horas
+46,76,4,20mg,Ingerir el medicamento con alimentos para evitar malestar estomacal
+47,87,3,5mg,Aplicar ungüento en la piel dos veces al día
+48,21,3,5mg,Ingerir una cucharada de jarabe antes de cada comida
+49,23,1,20mg,Ingerir una cucharada de jarabe antes de cada comida
+50,94,5,100mg,Aplicar crema en la zona afectada dos veces al día
+51,49,3,5mg,Aplicar el spray nasal cada 4 horas
+52,97,5,20mg,Ingerir una cucharada de jarabe antes de cada comida
+53,80,1,50mg,Aplicar crema en la zona afectada dos veces al día
+54,78,4,10mg,Tomar una cápsula cada 12 horas
+55,48,1,10mg,Tomar dos tabletas con agua después de cada comida
+56,59,5,5mg,Tomar una pastilla cada 8 horas
+57,78,3,10mg,Tomar una dosis doble si se olvida la dosis anterior
+58,58,3,10mg,Aplicar crema en la zona afectada dos veces al día
+59,85,1,5mg,Tomar una dosis doble si se olvida la dosis anterior
+60,86,1,100mg,Tomar dos tabletas con agua después de cada comida
+61,56,3,5mg,Ingerir una cucharada de jarabe antes de cada comida
+62,62,2,10mg,Ingerir una cucharada de jarabe antes de cada comida
+63,19,3,100mg,Tomar una pastilla cada 8 horas
+64,4,2,100mg,Administrar una inyección cada semana
+65,20,4,50mg,Tomar dos tabletas con agua después de cada comida
+66,65,2,50mg,Administrar una inyección cada semana
+67,92,4,10mg,Aplicar el spray nasal cada 4 horas
+68,41,1,50mg,Aplicar ungüento en la piel dos veces al día
+69,73,4,10mg,Ingerir una cucharada de jarabe antes de cada comida
+70,87,1,100mg,Aplicar ungüento en la piel dos veces al día
+71,47,2,20mg,Tomar dos tabletas con agua después de cada comida
+72,1,2,50mg,Tomar una dosis doble si se olvida la dosis anterior
+73,53,2,100mg,Aplicar el spray nasal cada 4 horas
+74,67,2,100mg,Tomar dos tabletas con agua después de cada comida
+75,85,1,10mg,Tomar una dosis doble si se olvida la dosis anterior
+76,71,4,50mg,Ingerir una cucharada de jarabe antes de cada comida
+77,17,5,20mg,Tomar una cápsula cada 12 horas
+78,8,2,5mg,Ingerir el medicamento con alimentos para evitar malestar estomacal
+79,83,1,20mg,Tomar una pastilla cada 8 horas
+80,13,5,100mg,Administrar una inyección cada semana
+81,48,4,20mg,Ingerir una cucharada de jarabe antes de cada comida
+82,98,2,10mg,Ingerir una cucharada de jarabe antes de cada comida
+83,32,3,20mg,Administrar una inyección cada semana
+84,99,3,20mg,Tomar dos tabletas con agua después de cada comida
+85,82,4,20mg,Tomar una cápsula cada 12 horas
+86,48,2,5mg,Administrar una inyección cada semana
+87,98,4,5mg,Aplicar crema en la zona afectada dos veces al día
+88,21,5,100mg,Aplicar ungüento en la piel dos veces al día
+89,4,2,10mg,Aplicar crema en la zona afectada dos veces al día
+90,46,3,100mg,Tomar una dosis doble si se olvida la dosis anterior
+91,38,2,100mg,Tomar una pastilla cada 8 horas
+92,21,4,20mg,Aplicar el spray nasal cada 4 horas
+93,32,3,100mg,Tomar una dosis doble si se olvida la dosis anterior
+94,24,3,100mg,Tomar una pastilla cada 8 horas
+95,15,4,50mg,Tomar una pastilla cada 8 horas
+96,73,5,5mg,Tomar dos tabletas con agua después de cada comida
+97,57,1,50mg,Tomar una pastilla cada 8 horas
+98,13,2,5mg,Aplicar el spray nasal cada 4 horas
+99,6,3,50mg,Tomar una pastilla cada 8 horas
+100,70,1,50mg,Administrar una inyección cada semana
