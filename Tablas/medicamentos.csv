@@ -1,6 +1,6 @@
 id_medicamento,nombre,descripcion,stock
-3,Amoxicilina,Amoxicillin 250mg,45
-4,Amoxicilina,Paracetamol 500mg,23
-5,Amoxicilina,Amoxicillin 250mg,31
-3,Paracetamol,Paracetamol 500mg,26
-4,Omeprazol,Paracetamol 500mg,31
+1,Amoxicilina,Antibiotico 250mg,45
+2,Ivermectina,Desparasitante 500mg,23
+3,Meloxicam,Antiinflamatorio 250mg,31
+4,Carprofeno,Antiinflamatorio 500mg,26
+5,Fipronil,Desparasitante 500mg,31
